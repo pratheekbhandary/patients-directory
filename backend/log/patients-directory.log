@@ -1,0 +1,14 @@
+[2021-02-07T12:41:10.825] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-07T12:41:10.963] [INFO] default - server is on! listening at 3000
+[2021-02-07T12:41:11.063] [INFO] default - Connected to database - OK
+[2021-02-07T12:42:14.148] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-07T12:42:14.268] [INFO] default - server is on! listening at 8080
+[2021-02-07T12:42:14.301] [INFO] default - Connected to database - OK
+[2021-02-07T12:48:02.086] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-07T12:48:02.221] [INFO] default - server is on! listening at 8080
+[2021-02-07T12:48:02.251] [INFO] default - Connected to database - OK
+[2021-02-07T13:12:17.290] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-07T13:12:17.474] [INFO] default - server is on! listening at 8080
+[2021-02-07T13:12:17.506] [INFO] default - Connected to database - OK
+[2021-02-07T13:12:50.599] [INFO] default - ::1 - - "GET /patients HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36"
+[2021-02-07T13:13:30.294] [INFO] default - ::1 - - "GET /patients?limit=5 HTTP/1.1" 200 1501 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36"

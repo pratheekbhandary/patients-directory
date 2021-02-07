@@ -1,0 +1,368 @@
+[2021-02-06T17:53:11.249] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T17:53:11.260] [INFO] default - server is on! listening at 3000
+[2021-02-06T17:53:11.288] [INFO] default - Connected to database - OK
+[2021-02-06T17:53:22.773] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T17:53:22.806] [INFO] default - Connected to database - OK
+[2021-02-06T17:53:25.703] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T17:53:25.709] [INFO] default - server is on! listening at 3000
+[2021-02-06T17:53:25.738] [INFO] default - Connected to database - OK
+[2021-02-06T18:07:04.240] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T18:07:04.247] [INFO] default - server is on! listening at 3000
+[2021-02-06T18:07:04.280] [INFO] default - Connected to database - OK
+[2021-02-06T18:10:16.893] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T18:10:16.899] [INFO] default - server is on! listening at 3000
+[2021-02-06T18:10:16.931] [INFO] default - Connected to database - OK
+[2021-02-06T18:10:19.571] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T18:10:19.577] [INFO] default - server is on! listening at 3000
+[2021-02-06T18:10:19.603] [INFO] default - Connected to database - OK
+[2021-02-06T18:10:20.671] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T18:10:20.677] [INFO] default - server is on! listening at 3000
+[2021-02-06T18:10:20.702] [INFO] default - Connected to database - OK
+[2021-02-06T18:12:04.672] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T18:12:04.679] [INFO] default - server is on! listening at 3000
+[2021-02-06T18:12:04.716] [INFO] default - Connected to database - OK
+[2021-02-06T18:13:06.942] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T18:13:06.949] [INFO] default - server is on! listening at 3000
+[2021-02-06T18:13:06.985] [INFO] default - Connected to database - OK
+[2021-02-06T18:13:08.961] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T18:13:08.967] [INFO] default - server is on! listening at 3000
+[2021-02-06T18:13:08.993] [INFO] default - Connected to database - OK
+[2021-02-06T18:40:14.096] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T18:40:14.188] [INFO] default - server is on! listening at 3000
+[2021-02-06T18:40:14.210] [INFO] default - Connected to database - OK
+[2021-02-06T18:42:22.623] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T18:42:22.738] [INFO] default - server is on! listening at 3000
+[2021-02-06T18:42:22.767] [INFO] default - Connected to database - OK
+[2021-02-06T18:42:55.538] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T18:42:55.544] [INFO] default - server is on! listening at 3000
+[2021-02-06T18:42:55.571] [INFO] default - Connected to database - OK
+[2021-02-06T18:43:19.518] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T18:43:19.524] [INFO] default - server is on! listening at 3000
+[2021-02-06T18:43:19.550] [INFO] default - Connected to database - OK
+[2021-02-06T18:43:22.039] [DEBUG] default - reached here 1
+[2021-02-06T18:43:35.522] [DEBUG] default - reached here 1
+[2021-02-06T18:43:38.000] [DEBUG] default - reached here 1
+[2021-02-06T18:44:13.750] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T18:44:13.756] [INFO] default - server is on! listening at 3000
+[2021-02-06T18:44:13.784] [INFO] default - Connected to database - OK
+[2021-02-06T18:44:17.887] [DEBUG] default - reached here 1
+[2021-02-06T18:44:28.256] [DEBUG] default - reached here 1
+[2021-02-06T18:44:32.763] [DEBUG] default - reached here 44
+[2021-02-06T18:44:52.661] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T18:44:52.667] [INFO] default - server is on! listening at 3000
+[2021-02-06T18:44:52.701] [INFO] default - Connected to database - OK
+[2021-02-06T18:44:55.897] [DEBUG] default - reached here 44
+[2021-02-06T18:45:52.858] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T18:45:52.865] [INFO] default - server is on! listening at 3000
+[2021-02-06T18:45:52.891] [INFO] default - Connected to database - OK
+[2021-02-06T18:46:00.476] [DEBUG] default - reached here 44
+[2021-02-06T18:46:08.389] [DEBUG] default - reached here undefined
+[2021-02-06T18:46:23.491] [DEBUG] default - reached here undefined
+[2021-02-06T18:46:37.916] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T18:46:38.017] [INFO] default - server is on! listening at 3000
+[2021-02-06T18:46:38.045] [INFO] default - Connected to database - OK
+[2021-02-06T18:46:40.377] [DEBUG] default - reached here undefined
+[2021-02-06T18:46:52.538] [DEBUG] default - reached here undefined
+[2021-02-06T18:48:01.621] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T18:48:01.707] [INFO] default - server is on! listening at 3000
+[2021-02-06T18:48:01.734] [INFO] default - Connected to database - OK
+[2021-02-06T18:49:05.093] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T18:49:05.175] [INFO] default - server is on! listening at 3000
+[2021-02-06T18:49:05.202] [INFO] default - Connected to database - OK
+[2021-02-06T18:49:36.651] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T18:49:36.733] [INFO] default - server is on! listening at 3000
+[2021-02-06T18:49:36.762] [INFO] default - Connected to database - OK
+[2021-02-06T18:49:47.520] [DEBUG] default - reached here 333
+[2021-02-06T18:49:51.615] [DEBUG] default - reached here 3332
+[2021-02-06T18:51:17.699] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T18:51:17.791] [INFO] default - server is on! listening at 3000
+[2021-02-06T18:51:17.819] [INFO] default - Connected to database - OK
+[2021-02-06T18:51:31.359] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T18:51:31.447] [INFO] default - server is on! listening at 3000
+[2021-02-06T18:51:31.474] [INFO] default - Connected to database - OK
+[2021-02-06T18:51:33.613] [DEBUG] default - reached here 3332
+[2021-02-06T18:52:22.706] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T18:52:22.787] [INFO] default - server is on! listening at 3000
+[2021-02-06T18:52:22.819] [INFO] default - Connected to database - OK
+[2021-02-06T18:52:23.207] [DEBUG] default - reached here 3332
+[2021-02-06T18:52:24.633] [DEBUG] default - reached here 3332
+[2021-02-06T18:52:29.664] [DEBUG] default - reached here 3332
+[2021-02-06T18:52:31.236] [DEBUG] default - reached here 3332
+[2021-02-06T18:52:42.101] [DEBUG] default - reached here 3332
+[2021-02-06T18:52:51.222] [DEBUG] default - reached here 3332
+[2021-02-06T18:53:24.652] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T18:53:24.750] [INFO] default - server is on! listening at 3000
+[2021-02-06T18:53:24.804] [INFO] default - Connected to database - OK
+[2021-02-06T18:53:26.065] [DEBUG] default - reached here 3332
+[2021-02-06T18:53:30.263] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T18:53:30.333] [INFO] default - server is on! listening at 3000
+[2021-02-06T18:53:30.363] [INFO] default - Connected to database - OK
+[2021-02-06T18:54:33.312] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T18:54:33.398] [INFO] default - server is on! listening at 3000
+[2021-02-06T18:54:33.425] [INFO] default - Connected to database - OK
+[2021-02-06T18:54:34.759] [DEBUG] default - reached here 3332
+[2021-02-06T18:54:38.162] [DEBUG] default - reached here 333
+[2021-02-06T18:55:11.323] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T18:55:11.429] [INFO] default - server is on! listening at 3000
+[2021-02-06T18:55:11.456] [INFO] default - Connected to database - OK
+[2021-02-06T18:55:13.872] [DEBUG] default - reached here 333
+[2021-02-06T18:55:22.767] [DEBUG] default - reached here 333
+[2021-02-06T18:56:54.077] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T18:56:54.155] [INFO] default - server is on! listening at 3000
+[2021-02-06T18:56:54.186] [INFO] default - Connected to database - OK
+[2021-02-06T18:57:00.694] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T18:57:00.760] [INFO] default - server is on! listening at 3000
+[2021-02-06T18:57:00.789] [INFO] default - Connected to database - OK
+[2021-02-06T18:57:13.862] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T18:57:13.932] [INFO] default - server is on! listening at 3000
+[2021-02-06T18:57:13.969] [INFO] default - Connected to database - OK
+[2021-02-06T18:57:36.432] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T18:57:36.500] [INFO] default - server is on! listening at 3000
+[2021-02-06T18:57:36.529] [INFO] default - Connected to database - OK
+[2021-02-06T18:59:39.611] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T18:59:40.125] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T18:59:40.199] [INFO] default - server is on! listening at 3000
+[2021-02-06T18:59:40.237] [INFO] default - Connected to database - OK
+[2021-02-06T19:01:32.488] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T19:01:32.569] [INFO] default - server is on! listening at 3000
+[2021-02-06T19:01:32.597] [INFO] default - Connected to database - OK
+[2021-02-06T19:01:54.828] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T19:01:54.919] [INFO] default - server is on! listening at 3000
+[2021-02-06T19:01:54.947] [INFO] default - Connected to database - OK
+[2021-02-06T19:04:15.535] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T19:04:16.146] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T19:04:16.228] [INFO] default - server is on! listening at 3000
+[2021-02-06T19:04:16.259] [INFO] default - Connected to database - OK
+[2021-02-06T19:05:05.754] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T19:05:05.840] [INFO] default - server is on! listening at 3000
+[2021-02-06T19:05:05.873] [INFO] default - Connected to database - OK
+[2021-02-06T19:05:55.372] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T19:05:55.461] [INFO] default - server is on! listening at 3000
+[2021-02-06T19:05:55.491] [INFO] default - Connected to database - OK
+[2021-02-06T19:06:08.143] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T19:06:08.217] [INFO] default - server is on! listening at 3000
+[2021-02-06T19:06:08.247] [INFO] default - Connected to database - OK
+[2021-02-06T19:06:34.738] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T19:06:34.818] [INFO] default - server is on! listening at 3000
+[2021-02-06T19:06:34.846] [INFO] default - Connected to database - OK
+[2021-02-06T19:13:04.440] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T19:13:04.532] [INFO] default - server is on! listening at 3000
+[2021-02-06T19:13:04.559] [INFO] default - Connected to database - OK
+[2021-02-06T19:14:14.377] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T19:14:14.467] [INFO] default - server is on! listening at 3000
+[2021-02-06T19:14:14.493] [INFO] default - Connected to database - OK
+[2021-02-06T19:18:07.456] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T19:18:07.551] [INFO] default - server is on! listening at 3000
+[2021-02-06T19:18:07.577] [INFO] default - Connected to database - OK
+[2021-02-06T19:20:29.680] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T19:20:29.771] [INFO] default - server is on! listening at 3000
+[2021-02-06T19:20:29.797] [INFO] default - Connected to database - OK
+[2021-02-06T19:28:02.070] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T19:28:02.190] [INFO] default - server is on! listening at 3000
+[2021-02-06T19:28:02.246] [INFO] default - Connected to database - OK
+[2021-02-06T19:30:47.103] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T19:30:47.196] [INFO] default - server is on! listening at 3000
+[2021-02-06T19:30:47.223] [INFO] default - Connected to database - OK
+[2021-02-06T19:32:00.237] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T19:32:00.364] [INFO] default - server is on! listening at 3000
+[2021-02-06T19:32:00.397] [INFO] default - Connected to database - OK
+[2021-02-06T19:32:51.527] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T19:32:51.624] [INFO] default - server is on! listening at 3000
+[2021-02-06T19:32:51.653] [INFO] default - Connected to database - OK
+[2021-02-06T19:33:11.305] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T19:33:11.396] [INFO] default - server is on! listening at 3000
+[2021-02-06T19:33:11.425] [INFO] default - Connected to database - OK
+[2021-02-06T19:35:34.271] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T19:35:34.368] [INFO] default - server is on! listening at 3000
+[2021-02-06T19:35:34.395] [INFO] default - Connected to database - OK
+[2021-02-06T19:35:53.329] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T19:35:53.418] [INFO] default - server is on! listening at 3000
+[2021-02-06T19:35:53.446] [INFO] default - Connected to database - OK
+[2021-02-06T19:36:08.952] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T19:36:09.039] [INFO] default - server is on! listening at 3000
+[2021-02-06T19:36:09.067] [INFO] default - Connected to database - OK
+[2021-02-06T20:33:52.273] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T20:33:52.392] [INFO] default - server is on! listening at 3000
+[2021-02-06T20:33:52.415] [INFO] default - Connected to database - OK
+[2021-02-06T20:35:03.934] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T20:35:04.062] [INFO] default - server is on! listening at 3000
+[2021-02-06T20:35:04.090] [INFO] default - Connected to database - OK
+[2021-02-06T20:35:38.617] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T20:35:38.740] [INFO] default - server is on! listening at 3000
+[2021-02-06T20:35:38.762] [INFO] default - Connected to database - OK
+[2021-02-06T20:35:41.006] [DEBUG] default - file path [ 'test' ]
+[2021-02-06T20:35:51.388] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T20:35:51.499] [INFO] default - server is on! listening at 3000
+[2021-02-06T20:35:51.523] [INFO] default - Connected to database - OK
+[2021-02-06T20:36:00.622] [DEBUG] default - file path /tmp/tmp-1-1612623960618
+[2021-02-06T20:36:05.621] [DEBUG] default - file path /tmp/tmp-2-1612623965620
+[2021-02-06T20:36:06.370] [DEBUG] default - file path /tmp/tmp-3-1612623966368
+[2021-02-06T20:36:07.092] [DEBUG] default - file path /tmp/tmp-4-1612623967090
+[2021-02-06T20:36:07.761] [DEBUG] default - file path /tmp/tmp-5-1612623967760
+[2021-02-06T20:36:08.386] [DEBUG] default - file path /tmp/tmp-6-1612623968384
+[2021-02-06T21:00:22.884] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T21:00:23.011] [INFO] default - server is on! listening at 3000
+[2021-02-06T21:00:23.041] [INFO] default - Connected to database - OK
+[2021-02-06T21:00:30.674] [DEBUG] default - file path /tmp/tmp-1-1612625430669
+[2021-02-06T21:21:11.931] [DEBUG] default - file path /tmp/tmp-2-1612626671928
+[2021-02-06T21:25:24.586] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T21:25:24.719] [INFO] default - server is on! listening at 3000
+[2021-02-06T21:25:24.743] [INFO] default - Connected to database - OK
+[2021-02-06T21:25:58.363] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T21:25:58.479] [INFO] default - server is on! listening at 3000
+[2021-02-06T21:25:58.501] [INFO] default - Connected to database - OK
+[2021-02-06T21:26:02.532] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T21:26:02.625] [INFO] default - server is on! listening at 3000
+[2021-02-06T21:26:02.647] [INFO] default - Connected to database - OK
+[2021-02-06T21:26:10.974] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T21:26:11.072] [INFO] default - server is on! listening at 3000
+[2021-02-06T21:26:11.096] [INFO] default - Connected to database - OK
+[2021-02-06T21:26:29.530] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T21:26:29.647] [INFO] default - server is on! listening at 3000
+[2021-02-06T21:26:29.671] [INFO] default - Connected to database - OK
+[2021-02-06T21:26:54.197] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T21:26:54.323] [INFO] default - server is on! listening at 3000
+[2021-02-06T21:26:54.352] [INFO] default - Connected to database - OK
+[2021-02-06T21:27:06.406] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T21:27:06.497] [INFO] default - server is on! listening at 3000
+[2021-02-06T21:27:06.519] [INFO] default - Connected to database - OK
+[2021-02-06T21:42:33.500] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T21:42:33.644] [INFO] default - server is on! listening at 3000
+[2021-02-06T21:42:33.668] [INFO] default - Connected to database - OK
+[2021-02-06T21:43:50.659] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T21:43:50.787] [INFO] default - server is on! listening at 3000
+[2021-02-06T21:43:50.809] [INFO] default - Connected to database - OK
+[2021-02-06T21:44:09.063] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T21:44:09.180] [INFO] default - server is on! listening at 3000
+[2021-02-06T21:44:09.205] [INFO] default - Connected to database - OK
+[2021-02-06T22:41:59.270] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T22:41:59.415] [INFO] default - server is on! listening at 3000
+[2021-02-06T22:41:59.444] [INFO] default - Connected to database - OK
+[2021-02-06T22:42:05.904] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T22:42:05.998] [INFO] default - server is on! listening at 3000
+[2021-02-06T22:42:06.021] [INFO] default - Connected to database - OK
+[2021-02-06T22:42:26.197] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T22:42:26.292] [INFO] default - server is on! listening at 3000
+[2021-02-06T22:42:26.326] [INFO] default - Connected to database - OK
+[2021-02-06T22:44:12.482] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T22:44:12.608] [INFO] default - server is on! listening at 3000
+[2021-02-06T22:44:12.631] [INFO] default - Connected to database - OK
+[2021-02-06T22:44:34.950] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T22:44:35.063] [INFO] default - server is on! listening at 3000
+[2021-02-06T22:44:35.087] [INFO] default - Connected to database - OK
+[2021-02-06T22:45:23.351] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T22:45:23.467] [INFO] default - server is on! listening at 3000
+[2021-02-06T22:45:23.493] [INFO] default - Connected to database - OK
+[2021-02-06T22:47:00.830] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T22:47:00.962] [INFO] default - server is on! listening at 3000
+[2021-02-06T22:47:00.991] [INFO] default - Connected to database - OK
+[2021-02-06T22:47:50.154] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T22:47:50.248] [INFO] default - server is on! listening at 3000
+[2021-02-06T22:47:50.271] [INFO] default - Connected to database - OK
+[2021-02-06T22:47:54.871] [INFO] default - Uploaded and saved Result {
+  command: 'INSERT',
+  rowCount: 100,
+  oid: 0,
+  rows: [],
+  fields: [],
+  _parsers: undefined,
+  _types: TypeOverrides {
+    _types: {
+      getTypeParser: [Function: getTypeParser],
+      setTypeParser: [Function: setTypeParser],
+      arrayParser: [Object],
+      builtins: [Object]
+    },
+    text: {},
+    binary: {}
+  },
+  RowCtor: null,
+  rowAsArray: false
+}
+[2021-02-06T22:49:57.023] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T22:49:57.147] [INFO] default - server is on! listening at 3000
+[2021-02-06T22:49:57.169] [INFO] default - Connected to database - OK
+[2021-02-06T22:50:09.401] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T22:50:09.509] [INFO] default - server is on! listening at 3000
+[2021-02-06T22:50:09.530] [INFO] default - Connected to database - OK
+[2021-02-06T22:52:29.234] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T22:52:29.350] [INFO] default - server is on! listening at 3000
+[2021-02-06T22:52:29.373] [INFO] default - Connected to database - OK
+[2021-02-06T22:52:46.543] [INFO] default - Uploaded and saved Result {
+  command: 'INSERT',
+  rowCount: 100,
+  oid: 0,
+  rows: [],
+  fields: [],
+  _parsers: undefined,
+  _types: TypeOverrides {
+    _types: {
+      getTypeParser: [Function: getTypeParser],
+      setTypeParser: [Function: setTypeParser],
+      arrayParser: [Object],
+      builtins: [Object]
+    },
+    text: {},
+    binary: {}
+  },
+  RowCtor: null,
+  rowAsArray: false
+}
+[2021-02-06T22:53:24.286] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T22:53:24.411] [INFO] default - server is on! listening at 3000
+[2021-02-06T22:53:24.435] [INFO] default - Connected to database - OK
+[2021-02-06T22:54:43.903] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T22:54:44.022] [INFO] default - server is on! listening at 3000
+[2021-02-06T22:54:44.046] [INFO] default - Connected to database - OK
+[2021-02-06T22:55:03.711] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T22:55:03.830] [INFO] default - server is on! listening at 3000
+[2021-02-06T22:55:03.852] [INFO] default - Connected to database - OK
+[2021-02-06T22:55:46.118] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T22:55:46.231] [INFO] default - server is on! listening at 3000
+[2021-02-06T22:55:46.261] [INFO] default - Connected to database - OK
+[2021-02-06T22:55:57.632] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T22:55:57.722] [INFO] default - server is on! listening at 3000
+[2021-02-06T22:55:57.743] [INFO] default - Connected to database - OK
+[2021-02-06T22:56:03.250] [INFO] default - File uploaded, file mimetype: text/csv
+[2021-02-06T22:56:03.295] [INFO] default - File saved 100
+[2021-02-06T22:57:15.692] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T22:57:15.817] [INFO] default - server is on! listening at 3000
+[2021-02-06T22:57:15.839] [INFO] default - Connected to database - OK
+[2021-02-06T22:58:06.107] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T22:58:06.222] [INFO] default - server is on! listening at 3000
+[2021-02-06T22:58:06.246] [INFO] default - Connected to database - OK
+[2021-02-06T22:58:12.886] [INFO] default - File uploaded, file mimetype: application/pdf
+[2021-02-06T23:02:04.185] [INFO] default - File uploaded, file mimetype: application/vnd.ms-excel
+[2021-02-06T23:02:53.368] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T23:02:53.499] [INFO] default - server is on! listening at 3000
+[2021-02-06T23:02:53.522] [INFO] default - Connected to database - OK
+[2021-02-06T23:02:58.131] [INFO] default - File uploaded, file mimetype: application/vnd.ms-excel
+[2021-02-06T23:04:19.985] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T23:04:20.108] [INFO] default - server is on! listening at 3000
+[2021-02-06T23:04:20.135] [INFO] default - Connected to database - OK
+[2021-02-06T23:04:21.929] [INFO] default - File uploaded, file mimetype: application/vnd.ms-excel
+[2021-02-06T23:05:42.388] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T23:05:42.545] [INFO] default - server is on! listening at 3000
+[2021-02-06T23:05:42.572] [INFO] default - Connected to database - OK
+[2021-02-06T23:07:02.715] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T23:07:02.837] [INFO] default - server is on! listening at 3000
+[2021-02-06T23:07:02.862] [INFO] default - Connected to database - OK
+[2021-02-06T23:08:15.401] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T23:08:15.536] [INFO] default - server is on! listening at 3000
+[2021-02-06T23:08:15.559] [INFO] default - Connected to database - OK
+[2021-02-06T23:08:47.824] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T23:08:47.957] [INFO] default - server is on! listening at 3000
+[2021-02-06T23:08:47.980] [INFO] default - Connected to database - OK
+[2021-02-06T23:10:26.940] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T23:10:27.084] [INFO] default - server is on! listening at 3000
+[2021-02-06T23:10:27.113] [INFO] default - Connected to database - OK
+[2021-02-06T23:10:42.769] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T23:10:42.901] [INFO] default - server is on! listening at 3000
+[2021-02-06T23:10:42.937] [INFO] default - Connected to database - OK
+[2021-02-06T23:10:54.779] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T23:10:54.876] [INFO] default - server is on! listening at 3000
+[2021-02-06T23:10:54.903] [INFO] default - Connected to database - OK
+[2021-02-06T23:11:01.909] [INFO] default - File uploaded, file mimetype: application/vnd.ms-excel
+[2021-02-06T23:11:16.022] [INFO] default - Will connect to postgres://patients_directory@127.0.0.1/patients_directory
+[2021-02-06T23:11:16.152] [INFO] default - server is on! listening at 3000
+[2021-02-06T23:11:16.175] [INFO] default - Connected to database - OK
