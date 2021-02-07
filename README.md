@@ -58,3 +58,4 @@ To run the app:
   - [ ] Test cases
   - [ ] Dockerizing backend and front end
   - [ ] Deployment 
+  - [ ] Remove CORS
