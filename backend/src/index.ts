@@ -59,7 +59,6 @@ app.get(
   async (req, res) => {
     try {
       const id = parseToInterger(req.params?.id);
-      logger.debug("reached here", id);
       if (id !== undefined) {
         const patient = await knex<PatientsInterface>("patients")
           .select()

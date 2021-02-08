@@ -25,9 +25,12 @@ const PatientsDetails: FC<PatientDetailsProps> = ({ patientDetailsProp }) => {
     async function fetchData() {
       try {
         const res = await fetch(
-          `${process.env.REACT_APP_SERVER_ENDPOINT}/${patientIdFromUrl}`
+          `${process.env.REACT_APP_SERVER_ENDPOINT}/patient/${patientIdFromUrl}`
         );
         const { data } = await res.json();
+        if (res.status >= 400 && res.status < 600) {
+          throw new Error(data);
+        }
         setPatientDetails(data[0]);
       } catch (err) {
         //TODO: notify
@@ -91,7 +94,7 @@ const PatientsDetails: FC<PatientDetailsProps> = ({ patientDetailsProp }) => {
 
   return (
     <div
-      className="container"
+      className="patients-details-container"
       style={{
         display: "flex",
         alignItems: "center",

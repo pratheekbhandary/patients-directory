@@ -17,6 +17,23 @@ import {
 const UPLOADING = "uploading";
 const ERROR = "Error: ";
 
+export const Notification: FC<{
+  children: React.ReactNode;
+  appearance: "info" | "success" | "alert";
+}> = ({ children, appearance }) => {
+  return (
+    <div
+      style={{
+        position: "fixed",
+        bottom: "10px",
+        right: "10px",
+      }}
+    >
+      <Message appearance={appearance}>{children}</Message>
+    </div>
+  );
+};
+
 const Upload: FC = () => {
   const [modalState, setModalState] = useState(false);
   const [notification, setNotification] = useState("");
@@ -48,12 +65,15 @@ const Upload: FC = () => {
             }
           );
           const { message, rowCount } = await res.json();
+          if (res.status >= 400 && res.status < 600) {
+            throw new Error(message);
+          }
           setNotification(`${message}! Patient count: ${rowCount}`);
           setTimeout(() => {
             setNotification("");
           }, 3000);
         } catch (err) {
-          setNotification(`${ERROR}${err}`);
+          setNotification(`${err}`);
           setTimeout(() => {
             setNotification("");
           }, 3000);
@@ -63,49 +83,21 @@ const Upload: FC = () => {
     []
   );
 
-  const displayNoti = useCallback(() => {
+  const displayNotification = useCallback(() => {
     if (notification === UPLOADING) {
       return (
-        <div
-          style={{
-            position: "fixed",
-            bottom: "10px",
-            right: "10px",
-          }}
-        >
-          <Message appearance="info">
-            <Spinner appearance="secondary" className="mr-3" size="small" />
-            Uploading...
-          </Message>
-        </div>
+        <Notification appearance="info">
+          <Spinner appearance="secondary" className="mr-3" size="small" />
+          Uploading...
+        </Notification>
       );
     } else if (notification.startsWith(ERROR)) {
-      return (
-        <div
-          style={{
-            position: "fixed",
-            bottom: "10px",
-            right: "10px",
-          }}
-        >
-          <Message appearance="alert">{notification}</Message>
-        </div>
-      );
+      return <Notification appearance="alert">{notification}</Notification>;
     } else {
-      return (
-        <div
-          style={{
-            position: "fixed",
-            bottom: "10px",
-            right: "10px",
-          }}
-        >
-          <Message appearance="success">{notification}</Message>
-        </div>
-      );
+      return <Notification appearance="success">{notification}</Notification>;
     }
   }, [notification]);
-  console.log({ notification });
+
   return (
     <>
       <div
@@ -116,7 +108,7 @@ const Upload: FC = () => {
           justifyContent: "flex-end",
         }}
       >
-        {notification && displayNoti()}
+        {notification && displayNotification()}
         <Button
           appearance="primary"
           onClick={handleClick}

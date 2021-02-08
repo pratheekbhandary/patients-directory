@@ -24,6 +24,7 @@ const PatientsTable = () => {
           `${process.env.REACT_APP_SERVER_ENDPOINT}/patients?page=1&&limit=1000`
         );
         const { data } = await res.json();
+
         setPatientsData([...data.results]);
         setPaginationInfo((paginationInfo) => ({
           ...paginationInfo,
